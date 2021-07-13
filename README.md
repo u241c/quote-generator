@@ -14,7 +14,7 @@
 
 ## Getting started
 
-[click] (https://u241c.github.io) here to get started and see the app online! 
+[click] (https://u241c.github.io/quote-generator/) here to get started and see the app online! 
 
 ## Future Enhancements
 
