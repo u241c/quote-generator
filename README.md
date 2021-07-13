@@ -6,7 +6,7 @@
 - HTML5
 - CSS3
 - JS
-- [News](https://newsapi.org/)
+- [quote](https://u241c.github.io/quote-generator/)
 - Github Pages (for deployment)
 
 ## Screenshots
